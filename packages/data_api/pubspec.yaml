@@ -1,0 +1,9 @@
+name: data_api
+description: The interface providing all data needed for the app
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
